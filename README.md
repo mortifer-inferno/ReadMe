@@ -6,7 +6,7 @@
 </p>
 
 <h1 align="center">
-  <font color="#D4AF37">✦ YOUR NAME ✦</font>
+  <font color="#D4AF37">✦ MORTIFER ✦</font>
 </h1>
 
 <p align="center">
@@ -76,7 +76,7 @@ I am always open to exploring high-impact collaborations, advanced AI research i
 
 <p align="center">
   Let's build the future of the digital luxury landscape.<br>
-  <strong>✦ [Request a Consultation](mailto:your.email@example.com) ✦</strong>
+  <strong>✦ [Request a Consultation](mailto:mohammed.affanvh@gmail.com) ✦</strong>
 </p>
 
 <p align="center">
