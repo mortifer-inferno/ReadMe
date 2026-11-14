@@ -1,6 +1,6 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,100:D4AF37&height=220&section=header&text=MORTIFER&fontSize=70&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Animated%20Premium%20Websites&descAlignY=58&descSize=18" width="100%" alt="MORTIFER header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,100:D4AF37&height=230&section=header&text=MORTIFER&fontSize=72&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Animated%20Premium%20Websites&descAlignY=58&descSize=18" width="100%" alt="MORTIFER header" />
 </p>
 
 <h1 align="center">✦ MORTIFER ✦</h1>
@@ -12,8 +12,30 @@
 <p align="center">
   <a href="https://github.com/mortifer-inferno"><img src="https://img.shields.io/badge/GitHub-mortifer--inferno-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:mohammed.affanvh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D4AF37?style=for-the-badge&logo=gmail&logoColor=black" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Available%20for-Projects-2EA44F?style=for-the-badge" alt="Available for projects">
+  <img src="https://komarev.com/ghpvc/?username=mortifer-inferno&color=D4AF37&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views">
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github&theme=dark" alt="Skills" />
 </p>
 <!-- HEADER END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:D4AF37,100:07070C&height=2" width="100%" alt="divider" />
+</p>
+
+## ✦ THE GALLERY
+
+<table>
+  <tr>
+    <td width="33%"><a href="https://mortifer-inferno.github.io/my-shop-demo-advanced"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fmy-shop-demo-advanced%2F?w=600&h=400" alt="Modestia Dux" width="100%"></a><br><p align="center"><b>Modestia Dux</b></p></td>
+    <td width="33%"><a href="https://mortifer-inferno.github.io/kayal-taxi"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fkayal-taxi%2F?w=600&h=400" alt="Urban Cabs" width="100%"></a><br><p align="center"><b>Urban Cabs</b></p></td>
+    <td width="33%"><a href="https://mortifer-inferno.github.io/oltera"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Foltera%2F?w=600&h=400" alt="Oltera" width="100%"></a><br><p align="center"><b>Oltera Language Studio</b></p></td>
+  </tr>
+</table>
+
+---
 
 ## ✦ THE MANIFESTO
 
@@ -21,7 +43,9 @@
 
 I build websites that feel like an experience, not just a page. Every project gets its own look, its own voice and its own tools, from the first blank screen to the live link. Premium, minimalist and obsessively polished.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:D4AF37,100:07070C&height=2" width="100%" alt="divider" />
+</p>
 
 ## ✦ THE SIGNATURE COLLECTION (FEATURED PROJECTS)
 
@@ -33,6 +57,10 @@ I build websites that feel like an experience, not just a page. Every project ge
 * **The Features:** Category browsing, a working cart with product options, and a visitor feedback section.
 * **The Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
+<p align="center">
+  <a href="https://github.com/mortifer-inferno/my-shop-demo-advanced"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=my-shop-demo-advanced&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Modestia Dux repository" /></a>
+</p>
+
 ### 🚖 [Urban Cabs](https://mortifer-inferno.github.io/kayal-taxi) — Chauffeured Travel in Kerala
 <a href="https://mortifer-inferno.github.io/kayal-taxi"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fkayal-taxi%2F?w=1000&h=600" alt="Urban Cabs live preview" width="100%"></a>
 
@@ -40,6 +68,10 @@ I build websites that feel like an experience, not just a page. Every project ge
 * **The Aesthetic:** Confident, travel-ready styling built around Kerala's backwaters and hills.
 * **The Features:** Reservation form, five curated tour packages and a six-vehicle fleet.
 * **The Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
+
+<p align="center">
+  <a href="https://github.com/mortifer-inferno/kayal-taxi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=kayal-taxi&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Urban Cabs repository" /></a>
+</p>
 
 ### 🎓 [Oltera Language Studio](https://mortifer-inferno.github.io/oltera) — IELTS & Study Abroad
 <a href="https://mortifer-inferno.github.io/oltera"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Foltera%2F?w=1000&h=600" alt="Oltera live preview" width="100%"></a>
@@ -49,9 +81,23 @@ I build websites that feel like an experience, not just a page. Every project ge
 * **The Features:** A timed reading test, a Task 2 writing checker, visa checklists and 18 study destinations.
 * **The Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
+<p align="center">
+  <a href="https://github.com/mortifer-inferno/oltera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=oltera&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Oltera repository" /></a>
+</p>
+
 ---
 
 ## ✦ THE MAESTRO'S TOOLKIT
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages" />
+  <img src="https://img.shields.io/badge/SEO-D4AF37?style=for-the-badge&logo=googlesearchconsole&logoColor=black" alt="SEO" />
+</p>
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -69,6 +115,18 @@ I build websites that feel like an experience, not just a page. Every project ge
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortifer-inferno&layout=compact&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mortifer-inferno&theme=dark&background=07070C&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&border=D4AF37" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mortifer-inferno&bg_color=07070C&color=D4AF37&line=D4AF37&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mortifer-inferno&theme=onedark&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
+</p>
+
 ---
 
 ## ✦ ENTER THE ATELIER
@@ -81,5 +139,5 @@ I'm always open to new projects, collaborations and custom website builds.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:07070C&height=140&section=footer" width="100%" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:07070C&height=160&section=footer" width="100%" alt="Footer" />
 </p>
