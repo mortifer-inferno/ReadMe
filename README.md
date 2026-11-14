@@ -21,9 +21,11 @@
 </p>
 <!-- HEADER END -->
 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:D4AF37,100:07070C&height=2" width="100%" alt="divider" />
+  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 24'%3E%3Cdefs%3E%3ClinearGradient id='l'%3E%3Cstop stop-color='%23D4AF37' stop-opacity='0'/%3E%3Cstop offset='.5' stop-color='%23D4AF37'/%3E%3Cstop offset='1' stop-color='%23D4AF37' stop-opacity='0'/%3E%3C/linearGradient%3E%3CradialGradient id='g'%3E%3Cstop stop-color='%23fff3b0'/%3E%3Cstop offset='1' stop-color='%23D4AF37' stop-opacity='0'/%3E%3C/radialGradient%3E%3C/defs%3E%3Crect y='11' width='1000' height='2' fill='url(%23l)'/%3E%3Ccircle cy='12' r='9' fill='url(%23g)'%3E%3Canimate attributeName='cx' values='-20;1020' dur='4.5s' repeatCount='indefinite'/%3E%3C/circle%3E%3Ctext x='500' y='17' text-anchor='middle' font-size='14' fill='%23D4AF37'%3E✦%3Canimate attributeName='opacity' values='1;.2;1' dur='2.4s' repeatCount='indefinite'/%3E%3C/text%3E%3C/svg%3E" width="100%" alt="Golden animated divider"/>
 </p>
+
 
 ## ✦ THE GALLERY
 
