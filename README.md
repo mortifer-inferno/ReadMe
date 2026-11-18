@@ -1,6 +1,6 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="MORTIFER - Web Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,50:3A2F0B,100:D4AF37&height=240&section=header&text=MORTIFER&fontSize=72&fontColor=D4AF37&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Animated%20Premium%20Websites&descAlignY=58&descSize=18" width="100%" alt="MORTIFER header" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@
 </p>
 <!-- HEADER END -->
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,50:D4AF37,100:07070C&height=50&section=header" width="100%" alt="divider" />
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+GALLERY+%E2%9C%A6" alt="THE GALLERY" /></h2>
 
@@ -31,7 +31,7 @@
   </tr>
 </table>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,50:D4AF37,100:07070C&height=50&section=header" width="100%" alt="divider" />
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+MANIFESTO+%E2%9C%A6" alt="THE MANIFESTO" /></h2>
 
@@ -39,7 +39,7 @@
 
 I build websites that feel like an experience, not just a page. Every project gets its own look, its own voice and its own tools, from the first blank screen to the live link. Premium, minimalist and obsessively polished.
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,50:D4AF37,100:07070C&height=50&section=header" width="100%" alt="divider" />
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+SIGNATURE+COLLECTION+%E2%9C%A6" alt="THE SIGNATURE COLLECTION" /></h2>
 
@@ -56,8 +56,6 @@ I build websites that feel like an experience, not just a page. Every project ge
   <a href="https://github.com/mortifer-inferno/my-shop-demo-advanced"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=my-shop-demo-advanced&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Modestia Dux repository" /></a>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
-
 ### 🚖 [Urban Cabs](https://mortifer-inferno.github.io/kayal-taxi) — Chauffeured Travel in Kerala
 <a href="https://mortifer-inferno.github.io/kayal-taxi"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fkayal-taxi%2F?w=1000&h=600" alt="Urban Cabs live preview" width="100%"></a>
 
@@ -70,8 +68,6 @@ I build websites that feel like an experience, not just a page. Every project ge
   <a href="https://mortifer-inferno.github.io/kayal-taxi"><img src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20LIVE-D4AF37?style=for-the-badge&labelColor=07070C" alt="Visit Urban Cabs" /></a>
   <a href="https://github.com/mortifer-inferno/kayal-taxi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=kayal-taxi&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Urban Cabs repository" /></a>
 </p>
-
-<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ### 🎓 [Oltera Language Studio](https://mortifer-inferno.github.io/oltera) — IELTS & Study Abroad
 <a href="https://mortifer-inferno.github.io/oltera"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Foltera%2F?w=1000&h=600" alt="Oltera live preview" width="100%"></a>
@@ -86,7 +82,7 @@ I build websites that feel like an experience, not just a page. Every project ge
   <a href="https://github.com/mortifer-inferno/oltera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=oltera&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Oltera repository" /></a>
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,50:D4AF37,100:07070C&height=50&section=header" width="100%" alt="divider" />
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+TOOLKIT+%E2%9C%A6" alt="THE TOOLKIT" /></h2>
 
@@ -107,7 +103,7 @@ I build websites that feel like an experience, not just a page. Every project ge
 | **Tools & Hosting** | `Git` `GitHub` `GitHub Pages` |
 | **Growth** | `SEO` `Meta Tags` `Structured Data` |
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,50:D4AF37,100:07070C&height=50&section=header" width="100%" alt="divider" />
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+CORE+STATS+%E2%9C%A6" alt="THE CORE STATS" /></h2>
 
@@ -128,7 +124,7 @@ I build websites that feel like an experience, not just a page. Every project ge
   <img src="https://github-profile-trophy.vercel.app/?username=mortifer-inferno&theme=onedark&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
 </p>
 
-<img src="./assets/divider.svg" width="100%" alt="divider" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,50:D4AF37,100:07070C&height=50&section=header" width="100%" alt="divider" />
 
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+ENTER+THE+ATELIER+%E2%9C%A6" alt="ENTER THE ATELIER" /></h2>
 
@@ -138,6 +134,4 @@ I build websites that feel like an experience, not just a page. Every project ge
   <strong>✦ <a href="mailto:mohammed.affanvh@gmail.com">Request a Consultation</a> ✦</strong>
 </p>
 
-<p align="center">
-  <img src="./assets/footer.svg" width="100%" alt="MORTIFER footer" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:07070C&height=160&section=footer" width="100%" alt="Footer" />
