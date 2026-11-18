@@ -1,9 +1,7 @@
 <!-- HEADER START -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07070C,100:D4AF37&height=230&section=header&text=MORTIFER&fontSize=72&fontColor=D4AF37&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20%E2%80%A2%20Animated%20Premium%20Websites&descAlignY=58&descSize=18" width="100%" alt="MORTIFER header" />
+  <img src="./assets/header.svg" width="100%" alt="MORTIFER - Web Developer" />
 </p>
-
-<h1 align="center">✦ MORTIFER ✦</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=640&lines=Web+Developer+%26+Builder;Stores%2C+Booking+Sites+%26+Learning+Platforms;Obsessive+about+detail" alt="Typing animation" />
@@ -21,35 +19,29 @@
 </p>
 <!-- HEADER END -->
 
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-<p align="center">
-  <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1000 24'%3E%3Cdefs%3E%3ClinearGradient id='l'%3E%3Cstop stop-color='%23D4AF37' stop-opacity='0'/%3E%3Cstop offset='.5' stop-color='%23D4AF37'/%3E%3Cstop offset='1' stop-color='%23D4AF37' stop-opacity='0'/%3E%3C/linearGradient%3E%3CradialGradient id='g'%3E%3Cstop stop-color='%23fff3b0'/%3E%3Cstop offset='1' stop-color='%23D4AF37' stop-opacity='0'/%3E%3C/radialGradient%3E%3C/defs%3E%3Crect y='11' width='1000' height='2' fill='url(%23l)'/%3E%3Ccircle cy='12' r='9' fill='url(%23g)'%3E%3Canimate attributeName='cx' values='-20;1020' dur='4.5s' repeatCount='indefinite'/%3E%3C/circle%3E%3Ctext x='500' y='17' text-anchor='middle' font-size='14' fill='%23D4AF37'%3E✦%3Canimate attributeName='opacity' values='1;.2;1' dur='2.4s' repeatCount='indefinite'/%3E%3C/text%3E%3C/svg%3E" width="100%" alt="Golden animated divider"/>
-</p>
-
-
-## ✦ THE GALLERY
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+GALLERY+%E2%9C%A6" alt="THE GALLERY" /></h2>
 
 <table>
   <tr>
-    <td width="33%"><a href="https://mortifer-inferno.github.io/my-shop-demo-advanced"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fmy-shop-demo-advanced%2F?w=600&h=400" alt="Modestia Dux" width="100%"></a><br><p align="center"><b>Modestia Dux</b></p></td>
-    <td width="33%"><a href="https://mortifer-inferno.github.io/kayal-taxi"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fkayal-taxi%2F?w=600&h=400" alt="Urban Cabs" width="100%"></a><br><p align="center"><b>Urban Cabs</b></p></td>
-    <td width="33%"><a href="https://mortifer-inferno.github.io/oltera"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Foltera%2F?w=600&h=400" alt="Oltera" width="100%"></a><br><p align="center"><b>Oltera Language Studio</b></p></td>
+    <td width="33%"><a href="https://mortifer-inferno.github.io/my-shop-demo-advanced"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fmy-shop-demo-advanced%2F?w=600&h=400" alt="Modestia Dux" width="100%"></a><p align="center"><b>Modestia Dux</b></p></td>
+    <td width="33%"><a href="https://mortifer-inferno.github.io/kayal-taxi"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fkayal-taxi%2F?w=600&h=400" alt="Urban Cabs" width="100%"></a><p align="center"><b>Urban Cabs</b></p></td>
+    <td width="33%"><a href="https://mortifer-inferno.github.io/oltera"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Foltera%2F?w=600&h=400" alt="Oltera" width="100%"></a><p align="center"><b>Oltera Language Studio</b></p></td>
   </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## ✦ THE MANIFESTO
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+MANIFESTO+%E2%9C%A6" alt="THE MANIFESTO" /></h2>
 
 > *"Elegance is not about being noticed, it's about being remembered."* — Giorgio Armani
 
 I build websites that feel like an experience, not just a page. Every project gets its own look, its own voice and its own tools, from the first blank screen to the live link. Premium, minimalist and obsessively polished.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:07070C,50:D4AF37,100:07070C&height=2" width="100%" alt="divider" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## ✦ THE SIGNATURE COLLECTION (FEATURED PROJECTS)
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+SIGNATURE+COLLECTION+%E2%9C%A6" alt="THE SIGNATURE COLLECTION" /></h2>
 
 ### ⚜️ [Modestia Dux](https://mortifer-inferno.github.io/my-shop-demo-advanced) — Luxury Fashion Store
 <a href="https://mortifer-inferno.github.io/my-shop-demo-advanced"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fmy-shop-demo-advanced%2F?w=1000&h=600" alt="Modestia Dux live preview" width="100%"></a>
@@ -60,8 +52,11 @@ I build websites that feel like an experience, not just a page. Every project ge
 * **The Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
 <p align="center">
+  <a href="https://mortifer-inferno.github.io/my-shop-demo-advanced"><img src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20LIVE-D4AF37?style=for-the-badge&labelColor=07070C" alt="Visit Modestia Dux" /></a>
   <a href="https://github.com/mortifer-inferno/my-shop-demo-advanced"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=my-shop-demo-advanced&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Modestia Dux repository" /></a>
 </p>
+
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ### 🚖 [Urban Cabs](https://mortifer-inferno.github.io/kayal-taxi) — Chauffeured Travel in Kerala
 <a href="https://mortifer-inferno.github.io/kayal-taxi"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Fkayal-taxi%2F?w=1000&h=600" alt="Urban Cabs live preview" width="100%"></a>
@@ -72,8 +67,11 @@ I build websites that feel like an experience, not just a page. Every project ge
 * **The Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
 <p align="center">
+  <a href="https://mortifer-inferno.github.io/kayal-taxi"><img src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20LIVE-D4AF37?style=for-the-badge&labelColor=07070C" alt="Visit Urban Cabs" /></a>
   <a href="https://github.com/mortifer-inferno/kayal-taxi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=kayal-taxi&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Urban Cabs repository" /></a>
 </p>
+
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
 ### 🎓 [Oltera Language Studio](https://mortifer-inferno.github.io/oltera) — IELTS & Study Abroad
 <a href="https://mortifer-inferno.github.io/oltera"><img src="https://s.wordpress.com/mshots/v1/https%3A%2F%2Fmortifer-inferno.github.io%2Foltera%2F?w=1000&h=600" alt="Oltera live preview" width="100%"></a>
@@ -84,12 +82,13 @@ I build websites that feel like an experience, not just a page. Every project ge
 * **The Stack:** `HTML5` `CSS3` `JavaScript` `GitHub Pages`
 
 <p align="center">
+  <a href="https://mortifer-inferno.github.io/oltera"><img src="https://img.shields.io/badge/%E2%96%B6%20VISIT%20LIVE-D4AF37?style=for-the-badge&labelColor=07070C" alt="Visit Oltera" /></a>
   <a href="https://github.com/mortifer-inferno/oltera"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mortifer-inferno&repo=oltera&theme=dark&bg_color=07070C&title_color=D4AF37&text_color=FFFFFF&icon_color=D4AF37&border_color=D4AF37" alt="Oltera repository" /></a>
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## ✦ THE MAESTRO'S TOOLKIT
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+TOOLKIT+%E2%9C%A6" alt="THE TOOLKIT" /></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -108,9 +107,9 @@ I build websites that feel like an experience, not just a page. Every project ge
 | **Tools & Hosting** | `Git` `GitHub` `GitHub Pages` |
 | **Growth** | `SEO` `Meta Tags` `Structured Data` |
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## ✦ THE CORE STATS
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+THE+CORE+STATS+%E2%9C%A6" alt="THE CORE STATS" /></h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mortifer-inferno&show_icons=true&theme=dark&bg_color=07070C&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" alt="GitHub Stats" width="48%" />
@@ -129,17 +128,16 @@ I build websites that feel like an experience, not just a page. Every project ge
   <img src="https://github-profile-trophy.vercel.app/?username=mortifer-inferno&theme=onedark&no-frame=true&no-bg=true&column=4" alt="GitHub Trophies" />
 </p>
 
----
+<img src="./assets/divider.svg" width="100%" alt="divider" />
 
-## ✦ ENTER THE ATELIER
-
-I'm always open to new projects, collaborations and custom website builds.
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1500&color=D4AF37&center=true&vCenter=true&width=700&height=50&lines=%E2%9C%A6+ENTER+THE+ATELIER+%E2%9C%A6" alt="ENTER THE ATELIER" /></h2>
 
 <p align="center">
-  Let's build something unforgettable.<br>
+  I'm always open to new projects, collaborations and custom website builds.<br>
+  Let's build something unforgettable.<br><br>
   <strong>✦ <a href="mailto:mohammed.affanvh@gmail.com">Request a Consultation</a> ✦</strong>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:07070C&height=160&section=footer" width="100%" alt="Footer" />
+  <img src="./assets/footer.svg" width="100%" alt="MORTIFER footer" />
 </p>
